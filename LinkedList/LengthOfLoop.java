@@ -11,7 +11,7 @@ public class LengthOfLoop {
             fast = fast.next.next;
 
             if (slow == fast) {
-                // Cycle found → count length
+                // Cycle found → countnnnnn length
                 int count = 1;
                 ListNode temp = slow.next;
 
